@@ -1,0 +1,7 @@
+#include<iostream>
+#incldue<conio.h>
+int main()
+{
+std : cout<<"hello world";
+return 0;
+}
